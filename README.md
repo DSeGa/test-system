@@ -1,2 +1,2 @@
 # test-system
- Test System for schoold
+ Test System for school
