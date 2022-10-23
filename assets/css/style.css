@@ -1,0 +1,68 @@
+body {
+	background-image: url(../images/background.png);
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.alert-thin {
+    height: 30px;
+    line-height: 30px;
+    padding-top: 0;
+}
+
+.top-menu-links {
+    width: 100%;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+.parent {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    overflow: auto;   
+}
+
+.parent-add {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center; 
+    padding-top: 70px;
+    overflow: auto;   
+}
+
+
+.add-test-offset {
+    margin-top: 30px;
+}
+
+.panel-any {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.splitter {
+    padding: 0;
+    margin: 0;
+}
+
+hr {    
+    margin: 0 auto;
+}
+
+.test_state {
+    color: red;
+}
+
+.remove-button {    
+}
